@@ -24,12 +24,6 @@ Web Application Framework:
 
 Streamlit: To build the interactive web interface for real-time user interactions.
 
-Deep Learning Frameworks:
-
-PyTorch: Used for training and deploying the crop yield prediction model, which could be a ResNet model or another suitable architecture.
-
-Torchvision: For handling image data (satellite images, weather maps) and preprocessing.
-
 Data Processing Libraries:
 
 Pandas: For data manipulation and analysis.
