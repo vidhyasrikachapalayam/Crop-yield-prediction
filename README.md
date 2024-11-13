@@ -1,9 +1,7 @@
 # Crop-yield-prediction
 ## About
 The CropYieldAI project leverages cutting-edge machine learning techniques to predict crop yields with high accuracy. By utilizing satellite imagery, climate data, and other relevant inputs, this AI-driven 
-
 solution aims to optimize agricultural production and support sustainable farming practices. The tool will enable farmers, researchers, and agricultural professionals to make informed decisions that improve 
-
 productivity and resource management.
 
 ## Features
