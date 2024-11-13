@@ -81,5 +81,7 @@ Sustainable Practices: Encourages sustainable farming by predicting crop needs a
 
 ## References:
 Liu, Y., et al. (2022), "Crop Yield Prediction Using Machine Learning and Satellite Data," Agricultural Systems Journal.
+
 Jiang, Z., et al. (2021), "Deep Learning for Crop Yield Prediction: An Overview," Computers and Electronics in Agriculture.
+
 Bai, X., et al. (2019), "Predicting Crop Yields Using Climate and Remote Sensing Data," International Journal of Agricultural Sustainability.
